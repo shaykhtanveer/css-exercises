@@ -1,0 +1,19 @@
+p {
+    background-color: rgba(255, 0, 0, 0.419);
+    font-family: Verdana, "DejaVu Sans",sans-serif;
+}
+
+#div1 {
+    color: blue;
+    font-size: 36px;
+}
+
+#p2 {
+    font-size: 24px;
+}
+
+#div3 {
+    font-weight: bold;
+    font-size: 24px;
+    background-color: rgba(0, 128, 0, 0.494);
+}
